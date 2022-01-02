@@ -1,2 +1,2 @@
 # bootcamp-front-end-inter
-Repositório criado para o Bootcamp de Front-end do Inter
+Repositório criado para armazenar os projetos do Bootcamp de Front-end do Inter
