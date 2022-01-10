@@ -97,6 +97,11 @@ header nav a:hover{
     margin-top: 5px;
 }
 
+.carousel-header {
+    margin: 20px 20px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
 .box-filme {
     margin-left: 5px;
     height: 100%;
